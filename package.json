@@ -1,0 +1,25 @@
+{
+  "name": "newbot",
+  "version": "0.0.1",
+  "description": "Since IDK what to call it, discord.js bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dev-Osmium/NewBot.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "Dev_Osmium",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dev-Osmium/NewBot/issues"
+  },
+  "homepage": "https://github.com/Dev-Osmium/NewBot#readme",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}
